@@ -1,9 +1,9 @@
-## Way to run project
+## Steps to run project
 * provide imdb API_KEY in requests.js 
 * npm install
 * npm start
 
-## Node and React Learnings 
+## My node and react learnings from this project 
 
 * how to make project component based and pass props
 * how to use react hooks : useState and useEffect
@@ -14,7 +14,7 @@
       2. npm i react-youtube
 * learnt about concept of destructuring
 
-## Css Learnings
+## My css learnings from this project
 * how to use flex box
 * how to use CSS animations
 * usage of rem instead of pixels as per the usecase
